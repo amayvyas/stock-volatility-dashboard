@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+*.pyo
+*.pyd
+*.pkl
+*.db
+*.sqlite3
+.env
+.env.*
+*.log
+
+# Jupyter / IPython
+.ipynb_checkpoints
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+*.env/
+
+# VSCode and IDE settings
+.vscode/
+.idea/
+
+
+
